@@ -41,7 +41,7 @@ An AI-powered web application designed to assist users in identifying possible d
 ---
 
 ## 🗂️ Project Structure
-
+```
 healthcare_assistant/
 │
 ├── assistant/
@@ -70,7 +70,7 @@ healthcare_assistant/
 ├── manage.py
 ├── requirements.txt
 └── README.md
-
+```
 
 **Use Cases**
 
